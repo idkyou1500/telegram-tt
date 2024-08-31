@@ -130,7 +130,7 @@
     "stylelint-selector-tag-no-without-class": "^2.0.5",
     "telegraph-node": "^1.0.4",
     "typescript": "^5.0.2",
-    "webpack": "^5.76.2",
+    "webpack": "^5.94.0",
     "webpack-dev-server": "^4.13.1",
     "whatwg-fetch": "^3.6.2"
   },
