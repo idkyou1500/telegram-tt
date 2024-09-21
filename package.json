@@ -117,7 +117,7 @@
     "postcss-loader": "^7.1.0",
     "postcss-modules": "^6.0.0",
     "react": "^18.2.0",
-    "sass": "^1.59.3",
+    "sass": "^1.79.0",
     "sass-loader": "^13.2.1",
     "script-loader": "^0.7.2",
     "serve": "^14.2.0",
