@@ -50,7 +50,7 @@
   "author": "Alexander Zinchuk (alexander@zinchuk.com)",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
-    "@babel/core": "^7.21.3",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-proposal-class-properties": "^7.18.6",
     "@babel/plugin-proposal-logical-assignment-operators": "^7.20.7",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.18.6",
@@ -84,7 +84,7 @@
     "cross-env": "^7.0.3",
     "css-loader": "^6.7.3",
     "dotenv": "^16.0.3",
-    "electron": "^22.0.0",
+    "electron": "^33.4.3",
     "electron-builder": "^23.6.0",
     "electron-builder-notarize": "^1.5.1",
     "electron-updater": "^5.3.0",
