@@ -61,7 +61,7 @@
     "@babel/register": "^7.21.0",
     "@electron/rebuild": "^3.2.10",
     "@glen/jest-raw-loader": "^2.0.0",
-    "@playwright/test": "^1.31.2",
+    "@playwright/test": "^1.44.0",
     "@statoscope/cli": "^5.26.1",
     "@statoscope/webpack-plugin": "^5.25.1",
     "@testing-library/jest-dom": "^5.16.5",
